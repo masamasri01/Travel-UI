@@ -18,7 +18,7 @@ List<Map> ListOfPlaces = [
     'cost': 'from 10\$'
   },
   {
-    'title': 'Street',
+    'title': 'Sufyan Street',
     'image': 'assets/images/img4.jpg',
     'review': '☆ 7/10 (10 reviews)',
     'cost': 'from 0\$'
