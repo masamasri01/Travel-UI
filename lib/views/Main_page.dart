@@ -16,7 +16,6 @@ class MainTravelPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    List<Widget> low = [contTmp(), contTmp()];
     return Scaffold(
         resizeToAvoidBottomInset: false,
         body: Container(
@@ -49,19 +48,5 @@ class MainTravelPage extends StatelessWidget {
           ),
         ),
         bottomNavigationBar: const BottomNav());
-  }
-}
-
-class contTmp extends StatelessWidget {
-  const contTmp({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return Container(
-      height: 500,
-      color: Colors.red,
-      padding: EdgeInsets.all(4),
-      margin: EdgeInsets.all(4),
-    );
   }
 }
