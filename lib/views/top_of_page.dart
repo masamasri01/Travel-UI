@@ -13,7 +13,7 @@ class TopOfPage extends StatelessWidget {
           borderRadius: BorderRadius.circular(5),
           color: Color(0X98238384),
           image: DecorationImage(
-              image: AssetImage('assets/images/background.png'),
+              image: AssetImage('assets/images/intro2.jpg'),
               fit: BoxFit.cover)),
     );
   }
