@@ -1,4 +1,4 @@
-# UI
+# UI & Splach Screen
 
 A new Flutter project.
 
